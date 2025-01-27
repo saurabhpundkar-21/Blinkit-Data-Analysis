@@ -29,4 +29,5 @@ The dashboard focuses on the following primary KPIs:
 # Dashboard
 ![Image](https://github.com/user-attachments/assets/bd31fe3f-c095-4cc5-9809-520a37758a1f)
 
-## Tools & Technologies used :- Power BI, Power Query, DAX
+## Tools & Technologies used 
+Power BI, Power Query, DAX
