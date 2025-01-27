@@ -25,3 +25,8 @@ The dashboard focuses on the following primary KPIs:
 * Fruits, vegetables, and snack foods are the top-selling categories
 * Medium-sized outlets in Tier 3 locations show the highest profitability
 * Supermarkets generate higher sales volumes, while grocery stores have better item visibility
+
+# Dashboard
+![Image](https://github.com/user-attachments/assets/bd31fe3f-c095-4cc5-9809-520a37758a1f)
+
+## Tools & Technologies used :- Power BI, Power Query, DAX
